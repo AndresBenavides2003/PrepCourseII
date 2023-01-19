@@ -1,2 +1,1 @@
-# PrepCourseII
-Prueba
+Esta es una prueba de como crear un repositorio y clonarlo con gitBash
